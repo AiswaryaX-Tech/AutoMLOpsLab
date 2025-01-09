@@ -33,4 +33,4 @@ You can install the required libraries by using the `requirements.txt` file.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/AutoMLOpsLab.git
+git clone https://github.com/AiswaryaX-TechAutoMLOpsLab.git
